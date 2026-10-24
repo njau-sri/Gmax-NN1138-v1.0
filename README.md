@@ -1,6 +1,6 @@
 # Gmax-NN1138-v1.0
 
-The data files generated in this study are described as follows:
+The data files can be downloaded from the [GitHub release assets](https://github.com/njau-sri/Gmax-NN1138-v1.0/releases).
 
 `Gmax_NN1138_v1.0.genome.fasta.gz` is the genome sequence file of NN1138-2;
 
